@@ -28,10 +28,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Tips and astuces
 
-- Pseudo-événements d' Angular
+- Pseudo-événements d'Angular
 - directives: `ng generate directive nom-directive`
 - pipes: `ng generate pipe nom-pipe`
-- routes: déclarez de la route la plus spécifique à la plus générale ('**' équivaut à toutes les routes)
+- routes: déclarez de la route la plus spécifique à la plus générale ('\*\*' équivaut à toutes les routes)
 - modules: `ng generate module nom-module`
 - modules imports: ordre a son importance
 - services: `ng generate service nom-service`
