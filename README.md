@@ -35,3 +35,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - modules: `ng generate module nom-module`
 - modules imports: ordre a son importance
 - services: `ng generate service nom-service`
+
+Lien vers déploiement du site sur netlify: [tuto](https://www.makeuseof.com/angular-website-host-netlify-github/)
+
+Lien vers l'application: [ng-pokemon-app](https://feihachim-ng-pokemon-app.netlify.app)
